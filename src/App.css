@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(165, 163, 163);
+    padding:42px;
+}
+
+article{
+    border: 1px solid black;
+    display:flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
